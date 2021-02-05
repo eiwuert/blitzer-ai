@@ -17,7 +17,12 @@ Dieses Projekt verwendet object detection, um Geräte zur Geschwindigkeitsüberw
  - [ ] Restliche App-Funktionalität und Community-Funktionen integrieren
 
 ## Beispielbilder
-
+<img src="https://raw.githubusercontent.com/habibhaidari1/blitzer-ai/master/bilder/1.jpg" />
+<img src="https://raw.githubusercontent.com/habibhaidari1/blitzer-ai/master/bilder/2.jpg" />
+<img src="https://raw.githubusercontent.com/habibhaidari1/blitzer-ai/master/bilder/3.jpg" />
+<img src="https://raw.githubusercontent.com/habibhaidari1/blitzer-ai/master/bilder/4.jpg" />
+<img src="https://raw.githubusercontent.com/habibhaidari1/blitzer-ai/master/bilder/5.jpg" />
+<img src="https://raw.githubusercontent.com/habibhaidari1/blitzer-ai/master/bilder/6.jpg" />
 
 ## Limitationen
  - Weder mein Smartphone, noch mein Computer sind stark genug, um die
